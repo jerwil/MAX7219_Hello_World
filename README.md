@@ -1,0 +1,56 @@
+# MAX7219 LCD driver board
+
+A board to make using a MAX7219 with Arduino projects easy and cheap!
+
+![](https://github.com/jerwil/MAX7219_Hello_World/blob/master/Media/MAX7219-Animation-medium.gif "Screen changing")
+![](https://raw.github.com/jerwil/MAX7219_Hello_World/master/Media/IMG_6572.JPG "Front view")
+![](https://raw.github.com/jerwil/MAX7219_Hello_World/master/Media/IMG_6577.JPG "Back view")
+
+The board on the top is the 2-sided version. The bottom board is single-sided
+
+## Features
+
+* Allows for simple hookup of a 7-segment 4 digit LCD to Arduino
+* Requires 3 digital pins and 5V power
+* Compact design
+
+## Versions
+
+* The single-sided version requires only a single-sided PCB, but jumpers must be used
+* The double-sided version requires no jumpers but requires the ability to make dual-sided boards.
+
+## Demo Video
+
+* [Demo Video](http://youtu.be/nqQEoCIaSgE)
+
+## Blog post
+
+* [View the associated blog post here](http://www.jeremyadamwilson.com/max7219-lcd-driver-board/)
+
+## Requirements
+
+### Hardware
+
+* Arduino
+* MAX7219 LCD Driver
+* 1-sided or 2-sided copper board
+* Resistor (see http://playground.arduino.cc/Main/MAX72XXHardware to choose)
+* 10 mF capacitor
+* 100 nF ceramic capacitor
+* Headers
+
+### Schematics
+
+Single-sided:
+
+![](https://raw.github.com/jerwil/MAX7219_Hello_World/master/Media/MAX7219%204x7%20Single%20Sided%20PCB_pcb.jpg "Single-sided schematic")
+
+Double-sided:
+
+![](https://raw.github.com/jerwil/MAX7219_Hello_World/master/Media/MAX7219%20Dual%20Sided%20PCB%20_pcb.jpg "Double-sided schematic")
+
+See the included Fritzing diagram for details.
+
+Thanks to [wayoda.org](http://www.wayoda.org/arduino/ledcontrol/index.html) for the useful guide.
+
+
