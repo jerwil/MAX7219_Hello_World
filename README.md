@@ -2,7 +2,7 @@
 
 A board to make using a MAX7219 with Arduino projects easy and cheap!
 
-![](https://github.com/jerwil/MAX7219_Hello_World/blob/master/Media/MAX7219-Animation-medium.gif "Screen changing")
+![](https://raw.github.com/jerwil/MAX7219_Hello_World/master/Media/IMG_6559.JPG "In action")
 ![](https://raw.github.com/jerwil/MAX7219_Hello_World/master/Media/IMG_6572.JPG "Front view")
 ![](https://raw.github.com/jerwil/MAX7219_Hello_World/master/Media/IMG_6577.JPG "Back view")
 
