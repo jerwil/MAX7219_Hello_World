@@ -1,4 +1,4 @@
-# MAX7219 LCD driver board
+# MAX7219 7 segment LED driver board
 
 A board to make using a MAX7219 & 7 segment display with Arduino projects easy and cheap!
 
