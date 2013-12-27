@@ -1,6 +1,6 @@
 # MAX7219 LCD driver board
 
-A board to make using a MAX7219 with Arduino projects easy and cheap!
+A board to make using a MAX7219 & 7 segment display with Arduino projects easy and cheap!
 
 ![](https://raw.github.com/jerwil/MAX7219_Hello_World/master/Media/IMG_6559.JPG "In action")
 ![](https://raw.github.com/jerwil/MAX7219_Hello_World/master/Media/IMG_6572.JPG "Front view")
@@ -10,7 +10,7 @@ The board on the top is the 2-sided version. The bottom board is single-sided
 
 ## Features
 
-* Allows for simple hookup of a 7-segment 4 digit LCD to Arduino
+* Allows for simple hookup of an LED 7-segment 4 digit display to Arduino
 * Requires 3 digital pins and 5V power
 * Compact design
 
@@ -32,7 +32,7 @@ The board on the top is the 2-sided version. The bottom board is single-sided
 ### Hardware
 
 * Arduino
-* MAX7219 LCD Driver
+* MAX7219
 * 1-sided or 2-sided copper board
 * Resistor (see http://playground.arduino.cc/Main/MAX72XXHardware to choose)
 * 10 mF capacitor
